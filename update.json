@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "updateUrl": "https://github.com/asheesh-98/Visual_Interview_Ai_app/releases/latest",
+  "releaseNotes": "🚀 New Features & Improvements:\n• Added Gemini AI powered Mock Interviews\n• Integrated Real-time Speech-to-Text (STT)\n• New Resume ATS Analysis module\n• Live Interview Assistant (Co-pilot mode)\n• Performance Analytics with visual charts\n• Performance optimizations and bug fixes"
+}
